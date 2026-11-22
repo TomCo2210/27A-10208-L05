@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">27A-10208-L05</string>
+    <string name="load_image">Load Image</string>
+    <string name="toast_and_vibrate">Toast And Vibrate</string>
+    <string name="to_datastore_activity">To DataStore Activity</string>
+</resources>
